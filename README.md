@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kseniia
+# Hi there 👋, I'm Kseniia
 
 ## Ok, Google, what is software testing?
 ## I asked out of curiosity and discovered a whole new world💖
